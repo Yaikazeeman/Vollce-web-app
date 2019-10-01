@@ -1,0 +1,26 @@
+.scooter-img-home{
+    margin: 3em auto;
+    width: 80vw;
+}
+
+.content-div{
+    flex-direction: column;
+}
+
+.progressbar{
+    margin: 1em auto;
+    width: 60vw;
+}
+
+.progressbar p{
+    text-align: center;
+}
+
+.range {
+    margin: 1em auto;
+    width: 60vw;
+}
+
+.range p, h4{
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+.login{
+    width: 100vw;
+    height: 100vh;
+}
+
+.login-logo-div{
+    height: 60vh;
+    align-content: center;
+}
+
+.login-logo{
+    width: 80vw;
+    margin: auto;
+}
+
+.login-button-div{
+    flex-direction: column;
+}
+
+.login-button-div button{
+    margin: 0.5em 2em; 
+}
+
+.login-button-div button a{
+    text-decoration: none;
+    color: white;
+}
